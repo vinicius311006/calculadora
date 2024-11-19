@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  let tela = $('#display'); // Tela da calculadora
+  let tela = $('#display'); // Tela da calculadora displey
   let entradaAtual = '';   // Entrada atual do usuário
   let operador = '';       // Operador matemático
   let primeiroOperando = ''; // Primeiro operando
